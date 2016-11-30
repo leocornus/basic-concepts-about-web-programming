@@ -1,5 +1,5 @@
-Assignment
-----------
+Bootstrap Assignment
+--------------------
 
 #. using Bootstrap to create a page with 3 sections: header, content and footer.
 #. using jumbotron class for header
