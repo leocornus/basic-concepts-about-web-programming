@@ -50,3 +50,19 @@ Actions
 .. _HTML 5: http://www.w3schools.com/html/html5_intro.asp
 .. _CSS: http://www.w3schools.com/css/css_intro.asp
 .. _Bootstrap: http://getbootstrap.com/
+
+Assignment
+----------
+
+* `HTML 5 Basic <Html5-Basic.rst>`_
+* `Bootstrap Basic <Bootstrap-basic.rst>`_
+* `JavaScript in nutshell <Javascript-in-nutshell.rst>`_
+* `SVG first step <svg-first-step.rst>`_
+
+How to do assignment
+--------------------
+
+* build the github.io page for each assignment
+* answer all questions for your assignment in the page
+* send me the URL to your page
+* you could build a index page for all your assignment.
