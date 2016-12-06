@@ -37,3 +37,16 @@ For the first index.html, we will add the following conent::
     </body>
   </html>
 
+Actions
+-------
+
+* Understand the basic concepts about `HTML 5`_ and CSS_
+* Using Bootstrap_ to build your Website
+* JavaScript_ first step
+* Using JavaScript_ to manipulate SVG_
+
+.. _JavaScript: http://www.w3schools.com/js/js_intro.asp
+.. _SVG: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction
+.. _HTML 5: http://www.w3schools.com/html/html5_intro.asp
+.. _CSS: http://www.w3schools.com/css/css_intro.asp
+.. _Bootstrap: http://getbootstrap.com/
